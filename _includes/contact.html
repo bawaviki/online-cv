@@ -30,6 +30,12 @@
       <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.reddit %}
+    <li class="linkedin"><i class="fab fa-reddit"></i>
+      <a href="https://www.reddit.com/user/{{ sidebar.reddit }}" target="_blank">{{ sidebar.reddit }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
