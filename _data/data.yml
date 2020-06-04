@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Vikas Bawa (bawaviki)
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: bawaviki99@gmail.com
@@ -24,6 +24,8 @@ sidebar:
     stack-overflow: 9648535/bawaviki # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    xda: u=6265892 
+    reddit: bawaviki
 
     languages:
       - idiom: English
@@ -55,9 +57,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BTECH in Computer Science
+      university: DCRUST 
+      time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -122,25 +124,25 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: SaveTube
+        link: "SaveTube"
+        tagline: "Cross platform video downloader support 1000+ sites."
 
-      - title: DevStudio
+      - title: Beacon Kernel
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Full-fleged Custom kernel for android devices like Xiaomi Redmi 3s/x/prime, Redmi 4a/x etc."
 
-      - title: Tempo
+      - title: SaveStatus
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Save Status on the go ! Support WhatsApp, Whatsapp Business, OGWhatsapp, parallel space etc"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: youtube-dl-android
+        link: "youtube-dl-android"
+        tagline: "Library to use youtubedl on your android app."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: TermView
+        link: "TermView"
+        tagline: "A library help to add terminal emulator window in android app."
 
 publications:
     title: Publications
