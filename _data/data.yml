@@ -7,21 +7,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Vikas Bawa (bawaviki)
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
+    email: bawaviki99@gmail.com
+    phone: +91 7988637885
+    website: bawaviki.com #do not add http://
+    linkedin: bawaviki
+    github: bawaviki
+    telegram: bawaviki # add your nickname without '@' sign
+    gitlab: bawaviki
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@bawaviki99'
+    stack-overflow: 9648535/bawaviki # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -29,7 +29,7 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Hindi
         level: Professional
 
       - idiom: Spanish
@@ -168,19 +168,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java & Android
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
       - name: Angular
-        level: 98%
+        level: 90%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Python
         level: 85%
 
       - name: Sketch & Photoshop
